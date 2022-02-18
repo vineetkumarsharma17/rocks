@@ -1,0 +1,31 @@
+    body {
+        background-color: rgb(190, 215, 223);
+    } 
+    #top_banner{
+        background-color: black;
+        height: 90%;
+        /* background-image: url(images/top_boy.jpg); */
+    }
+    #title{
+        font-size: 32;
+       color: #551A8B;
+    }
+    #toptable{
+        border-color: black;
+        width: 100%;
+        height: inherit;
+    }
+
+    #top_td1{
+        width: 50%;
+        /* height: inherit; */
+    }
+    #top_td2{
+        width: 50%;
+        height: 90%;
+        background-image: url(images/top_boy.jpg);
+    }
+    a{
+        border: none;
+        text-decoration: none;
+    }
